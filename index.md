@@ -20,6 +20,4 @@ and ecosystem management practices to create healthier forests, for the benefit 
 - **[Aug 2024]** I joined the Comita Lab at Yale University and the New York Botanical Gardens. 
 - **[May 2024]** I graduated from the National University of Singapore with a Bachelor of Science in Environmental Studies (First Class Honours). 
 
-{% include_relative _includes/publications.md %}
 
-{% include_relative _includes/services.md %}
