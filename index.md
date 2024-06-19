@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-I am graduate researcher and teaching fellow pursuing my PhD at Yale University and the New York Botanical Gardens, 
+I am a graduate researcher and teaching fellow pursuing my PhD at Yale University and the New York Botanical Gardens, 
 where I am also a Lewis B. Cullman Fellow. I employ field experiments, computational genomics, and machine learning models to 
 study the influence of plant pathogens on the ecology and evolution of tropical forests. My research informs policies
 and ecosystem management practices to create healthier forests, for the benefit of human societies and economies.
