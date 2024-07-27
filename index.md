@@ -12,7 +12,7 @@ management practices to create healthier forests, for the benefit of human socie
 
 ## Research Interests
 
-- **Plant Biology and Forest Ecology:** plant-microbe interactions, life history strategies, species-coexistence
+- **Plant Biology and Forest Ecology:** plant-microbe interactions, life history strategies, species-coexistence mechanisms
 - **Ecosystem Services:** conservation finance, one health, urban greenery 
 - **Computer Vision:** image recognition for plant phenotyping, plant stress and disease detection
 
