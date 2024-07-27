@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-I am a Lewis B. Cullman fellow pursuing my PhD at Yale University and the New York Botanical Garden.
+I am a Lewis B. Cullman Fellow pursuing my PhD at Yale University and the New York Botanical Garden.
 Using field experiments, computational genomics, and machine learning models, I study the (i)
 influence of microbes on plant communities in tropical forests and (ii) the effects of climate change
 on the health and productivity of tropical forest ecosystems. My work informs policies and ecosystem
