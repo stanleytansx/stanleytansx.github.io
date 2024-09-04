@@ -19,7 +19,7 @@ management practices to create healthier forests, for the benefit of human socie
 ## News
 
 - **[Aug 2024]** I joined the Comita Lab at Yale University and the New York Botanical Garden.
-- **[Jul 2024]** I was selected as a <a href="https://www.quadfellowship.org/2024-quad-fellows" target="_blank"> Quad Fellow (Southeast Asia, 2024)</a> for my PhD at <a href="https://news.yale.edu/2024/08/09/three-yale-students-named-2024-quad-fellows-stem-fields" target="_blank"> Yale University</a>.
+- **[Jul 2024]** I was selected as a <a href="https://www.quadfellowship.org/2024-quad-fellows" target="_blank"> Quad Fellow (Southeast Asia, 2024)</a> for my Doctoral Studies at <a href="https://news.yale.edu/2024/08/09/three-yale-students-named-2024-quad-fellows-stem-fields" target="_blank"> Yale University</a>.
 - **[May 2024]** I joined the United Nations Climate Change Secretariat's Adaptation Division.
 - **[May 2024]** I graduated from the National University of Singapore with a Bachelor of Science in Environmental Studies (First Class Honours). 
 
