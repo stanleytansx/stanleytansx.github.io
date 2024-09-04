@@ -14,7 +14,7 @@ management practices to create healthier forests, for the benefit of human socie
 
 - **Plant Biology and Forest Ecology:** plant-microbe interactions and communities; ecosystem resilience 
 - **Ecosystem Conservation and Health:** non-market based financial mechanisms for forest conservation; one health
-- **Computer Vision:** image recognition for plant phenotyping, plant stress and disease detection
+- **Computer Vision:** image recognition for plant identification
 
 ## News
 
