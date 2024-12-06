@@ -5,16 +5,13 @@ layout: homepage
 ## About Me
 
 I am a <a href="https://tri.yale.edu/fellows/cullman-joint-degree-program" target="_blank">Cullman Fellow</a> pursuing my PhD at Yale University and the New York Botanical Garden.
-Using field experiments, computational genomics, and machine learning models, I study the (i)
-influence of microbes on plant communities in tropical forests and (ii) the effects of climate change
-on the health and resilience of tropical forest ecosystems. My work aims to inform policies and ecosystem
+Using field experiments and computational genomic methods, I study the the defence patterns of plants against plant-pathogens and insect herbivores in tropical forests. My work aims to inform policies and ecosystem
 management practices to create healthier forests, for the benefit of human societies and economies. 
 
 ## Research Interests
 
-- **Plant Biology and Forest Ecology:** plant-microbe interactions and communities; ecosystem resilience 
-- **Ecosystem Conservation and Health:** non-market based financial mechanisms for forest conservation; one health
-- **Computer Vision:** image recognition for plant identification
+- **Plant Biology and Forest Ecology:** plant-enemy interactions; ecosystem health 
+- **Ecosystem Conservation:** non-market based mechanisms for forest conservation
 
 ## News
 
