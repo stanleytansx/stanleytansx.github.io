@@ -9,8 +9,8 @@ Using field experiments and computational genomics, I study the the biochemical 
 
 ## Research Interests 
 
-- **Plant Biology:** plant-enemy interactions; plant adaptive defences and resistance
-- **Applied Science:** plant microbiome (mycorrhizal fungi); synthetic biology (systems and pathways)
+- **Plant Biology and Genomics:** plant-enemy interactions; plant adaptive defences and resistance
+- **Applied Plant Science:** plant-mycorrhizal symbiosis; synthetic biological systems and pathways
 
 ## News
 
