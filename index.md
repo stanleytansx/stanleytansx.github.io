@@ -14,7 +14,7 @@ Using field experiments and computational genomics, I study the the biochemical 
 
 ## News
 
-- **[Apr 2025]** I was awarded an <a href="https://yibs.yale.edu/research/yibs-small-grant-program" target="_blank"> Early Grant Award ($3000) from the Yale Institute of Biospheric Studies for my research on inducible biochemical defenses in tropical plants.
+- **[Apr 2025]** I was awarded an <a href="https://yibs.yale.edu/research/yibs-small-grant-program" target="_blank"> Early Grant Award </a> ($3000) from the Yale Institute of Biospheric Studies for my research on inducible biochemical defenses in tropical plants.
 - **[Apr 2025]** I secured pre-dissertation research funding ($12,000) from the Tropical Resources Institute Endowment Fellowship and the MacMillan Center for International and Area Studies at Yale to study patterns of expression in defence-related genes in tropical forests.
 - **[Oct 2024]** I participated in the <a href="https://www.state.gov/u-s-department-of-state-hosts-quad-fellows-in-washington-d-c/"> Quad Fellowship Summit </a> in Washington, D.C.
 - **[Aug 2024]** I joined the Comita Lab at Yale University as a doctoral student and the New York Botanical Garden as a Lewis B. Cullman Fellow (graduate student).
