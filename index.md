@@ -9,8 +9,8 @@ Using field experiments and computational genomics, I study plant defenses again
 
 ## Research Interests 
 
-- **Forest Biology and Ecology:** plant-enemy interactions; plant adaptive defences and resistance
-- **Applied Plant Sciences:** plant-mycorrhizal symbiosis; synthetic biological systems and pathways
+- **Forest Ecology and Genomics:** plant-enemy interactions; plant adaptive defences and resistance
+- **Applied Plant Biology:** plant-mycorrhizal symbiosis; synthetic biological systems and pathways
 
 ## News
 
