@@ -16,7 +16,7 @@ Using field experiments and computational genomics, I study plant defenses again
 
 - **[Apr 2025]** I was awarded an <a href="https://yibs.yale.edu/research/yibs-small-grant-program" target="_blank"> Early Grant Award</a> ($3000) from the Yale Institute of Biospheric Studies for my research on inducible biochemical defenses in tropical plants.
 - **[Apr 2025]** I secured pre-dissertation research funding ($12,000) from the Tropical Resources Institute Endowment Fellowship and the MacMillan Center for International and Area Studies at Yale to study patterns of expression in defense-related genes in tropical forests.
-- **[Oct 2024]** I participated in the <a href="https://www.state.gov/u-s-department-of-state-hosts-quad-fellows-in-washington-d-c/"> Quad Fellowship Summit </a> in Washington, D.C.
+- **[Oct 2024]** I participated in the <a href="[https://www.state.gov/u-s-department-of-state-hosts-quad-fellows-in-washington-d-c/](https://www.quadfellowship.org/press-releases/u-s-department-of-state-hosts-quad-fellows-in-washington)"> Quad Fellowship Summit </a> in Washington, D.C.
 - **[Aug 2024]** I joined the Comita Lab at Yale University as a doctoral student and the New York Botanical Garden as a Cullman Fellow (graduate studies).
 - **[Jul 2024]** I was selected as a <a href="https://www.quadfellowship.org/2024-quad-fellows" target="_blank"> Quad Fellow (Southeast Asia, 2024)</a> for my Doctoral Studies at <a href="https://news.yale.edu/2024/08/09/three-yale-students-named-2024-quad-fellows-stem-fields" target="_blank"> Yale University</a>.
 - **[May 2024]** I joined the United Nations Climate Change Secretariat's Adaptation Division.
