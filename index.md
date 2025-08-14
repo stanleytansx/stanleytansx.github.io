@@ -19,7 +19,7 @@ Using field experiments and computational genomics, I study plant defenses again
 - **[Apr 2025]** I secured pre-dissertation research funding ($12,000) from the Tropical Resources Institute Endowment Fellowship and the MacMillan Center for International and Area Studies at Yale to study patterns of expression in defense-related genes in tropical forests.
 - **[Oct 2024]** I participated in the <a href="https://www.state.gov/u-s-department-of-state-hosts-quad-fellows-in-washington-d-c/"> Quad Fellowship Summit </a> in Washington, D.C.
 - **[Aug 2024]** I joined the Comita Lab at Yale University as a doctoral student and the New York Botanical Garden as a Cullman Fellow (graduate studies).
-- **[Jul 2024]** I was selected as a <a href="https://www.quadfellowship.org/2024-quad-fellows" target="_blank"> Quad Fellow (Southeast Asia, 2024)</a> for my Doctoral Studies at <a href="https://news.yale.edu/2024/08/09/three-yale-students-named-2024-quad-fellows-stem-fields" target="_blank"> Yale University</a>.
+- **[Jul 2024]** I was selected as a <a href="https://news.yale.edu/2024/08/09/three-yale-students-named-2024-quad-fellows-stem-fields" target="_blank"> Quad Fellow (Southeast Asia, 2024)</a> for my Doctoral Studies at Yale University.
 - **[May 2024]** I joined the United Nations Climate Change Secretariat's Adaptation Division.
 - **[May 2024]** I graduated from the National University of Singapore with a Bachelor of Science in Environmental Studies (First Class Honours). 
 
