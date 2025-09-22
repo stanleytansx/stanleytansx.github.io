@@ -14,10 +14,10 @@ Using field experiments and computational genomics, I study plant defenses again
 
 ## News
 
+- **[Sep 2025]** I will present my findings on the effects of life history on plant defense strategies against herbivory at the British Ecological Society's Annual Meeting in Edinburgh, UK. Supported by the Doctoral Student Travel Fund and the Leitner Reilly Award at the Yale School of the Environment.
 - **[Aug 2025]** I will serve as the Senior Fellow Ambassador of Southeast Asia for the <a href="https://www.quadfellowship.org/"> Quad Fellowship </a> from 2025-2026.
 - **[Apr 2025]** I was awarded an <a href="https://yibs.yale.edu/research/yibs-small-grant-program" target="_blank"> Early Grant Award</a> ($3000) from the Yale Institute of Biospheric Studies for my research on inducible biochemical defenses in tropical plants.
-- **[Apr 2025]** I secured pre-dissertation research funding ($12,000) from the Tropical Resources Institute Endowment Fellowship and the MacMillan Center for International and Area Studies at Yale to study patterns of expression in defense-related genes in tropical forests.
-- **[Oct 2024]** I participated in the <a href="https://www.state.gov/u-s-department-of-state-hosts-quad-fellows-in-washington-d-c/"> Quad Fellowship Summit </a> in Washington, D.C.
+- **[Apr 2025]** I secured pre-dissertation research funds ($12,000) from the Tropical Resources Institute Endowment Fellowship and the MacMillan Center for International and Area Studies at Yale to study patterns of expression in defense-related genes in tropical forests.
 - **[Aug 2024]** I joined the Comita Lab at Yale University as a doctoral student and the New York Botanical Garden as a Cullman Fellow (graduate studies).
 - **[Jul 2024]** I was selected as a <a href="https://news.yale.edu/2024/08/09/three-yale-students-named-2024-quad-fellows-stem-fields" target="_blank"> Quad Fellow (Southeast Asia, 2024)</a> for my Doctoral Studies at Yale University.
 - **[May 2024]** I joined the United Nations Climate Change Secretariat's Adaptation Division.
