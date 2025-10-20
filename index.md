@@ -14,7 +14,7 @@ I study the ways plants defend themselves against pathogens and herbivores in tr
 
 ## News
 
-- **[Sep 2025]** I am presenting my work on plant herbivory defenses at the British Ecological Society's Annual Meeting (Edinburgh, UK), supported by the Doctoral Student Travel Fund and the Leitner Reilly Award.
+- **[Sep 2025]** I am presenting my work on plant herbivory defenses at the British Ecological Society's Annual Meeting (Edinburgh, UK), supported by the MacMillan Center International Conference Travel Grant and the Leitner Reilly Award.
 - **[Aug 2025]** I will serve as the Senior Fellow Ambassador of Southeast Asia for the <a href="https://www.quadfellowship.org/"> Quad Fellowship </a> from 2025-2026.
 - **[Apr 2025]** I was awarded an <a href="https://yibs.yale.edu/research/yibs-small-grant-program" target="_blank"> Early Grant Award</a> ($3000) from the Yale Institute of Biospheric Studies for my research on inducible biochemical defenses in tropical plants.
 - **[Apr 2025]** I secured pre-dissertation research funds ($12,000) from the Tropical Resources Institute Endowment Fellowship and the MacMillan Center for International and Area Studies at Yale to study patterns of expression in defense-related genes in tropical forests.
