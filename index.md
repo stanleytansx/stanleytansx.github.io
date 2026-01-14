@@ -5,16 +5,16 @@ layout: homepage
 ## About Me
 
 I am a Doctoral Student and <a href="https://tri.yale.edu/fellows/cullman-joint-degree-program" target="_blank">Cullman Fellow</a> pursuing my PhD at Yale University and the New York Botanical Garden.
-I study the ways plants defend themselves against pathogens and herbivores in tropical forests. Apart from investigating the evolutionary and ecological factors that shape plant defence strategies, my work aims to inform policies and technology to improve forest health, for the benefit of human societies and economies. 
+I study the ways plants defend themselves against pathogens and herbivores in tropical forests. Beyond investigating the evolutionary and ecological factors that shape plant defence strategies, my work aims to translate new knowledge into policies and technologies that improve forest health, for the benefit of human societies and economies. 
 
 ## Research Interests 
 
 - **Forest Ecology and Plant Genomics:** plant-enemy interactions; plant biochemical defences and resistance
-- **Applied Plant Biology:** plant-mycorrhizal symbiosis; bioactive compounds and applications
+- **Applied Plant Biology:** plant-microbiome; bioactive compounds and applications; effector biology
 
 ## News
 
-- **[Sep 2025]** I am presenting my work on plant herbivory defenses at the British Ecological Society's Annual Meeting (Edinburgh, UK), supported by the MacMillan Center International Conference Travel Grant and the Leitner Reilly Award.
+- **[Dec 2025]** I presented my work on plant herbivory defenses at the British Ecological Society's Annual Meeting (Edinburgh, UK).
 - **[Aug 2025]** I will serve as the Senior Fellow Ambassador of Southeast Asia for the <a href="https://www.quadfellowship.org/"> Quad Fellowship </a> from 2025-2026.
 - **[Apr 2025]** I was awarded an <a href="https://yibs.yale.edu/research/yibs-small-grant-program" target="_blank"> Early Grant Award</a> ($3000) from the Yale Institute of Biospheric Studies for my research on inducible biochemical defenses in tropical plants.
 - **[Apr 2025]** I secured pre-dissertation research funds ($12,000) from the Tropical Resources Institute Endowment Fellowship and the MacMillan Center for International and Area Studies at Yale to study patterns of expression in defense-related genes in tropical forests.
