@@ -5,12 +5,13 @@ layout: homepage
 ## About Me
 
 I am a Doctoral Student and <a href="https://tri.yale.edu/fellows/cullman-joint-degree-program" target="_blank">Cullman Fellow</a> pursuing my PhD at Yale University and the New York Botanical Garden.
-I study the ways plants defend themselves against pathogens and herbivores in tropical forests. Beyond investigating the evolutionary and ecological factors that shape plant defence strategies, my work aims to translate new knowledge into policies and technologies that improve forest health, for the benefit of human societies and economies. 
+I study plant defenses and immunity against herbivores and pathogens in tropical forests. I am interested in developing products and technology to improve plant and ecosystem health for applications in agriculture, forestry, and horticulture.
 
 ## Research Interests 
 
-- **Forest Ecology and Plant Genomics:** plant-enemy interactions; plant biochemical defences and resistance
-- **Applied Plant Biology:** plant-microbiome; bioactive compounds and applications; effector biology
+- **Plant-enemy interactions and plant defenses** 
+- **Functional genes for defense and drought response**
+- **Effector biology**
 
 ## News
 
