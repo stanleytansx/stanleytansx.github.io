@@ -15,6 +15,7 @@ I study plant defenses and immunity against herbivores and pathogens in tropical
 
 ## News
 
+- **[Apr 2026]** I passed my qualifying examination (Master of Philosophy Degree) and advanced to candidacy! 
 - **[Feb 2026]** I completed the Investing in Innovation Intensive at the Tsai Center for Innovative Thinking at Yale. 
 - **[Dec 2025]** I presented my work on plant herbivory defenses at the British Ecological Society's Annual Meeting (Edinburgh, UK).
 - **[Aug 2025]** I will serve as the Senior Fellow Ambassador of Southeast Asia for the <a href="https://www.quadfellowship.org/"> Quad Fellowship </a> from 2025-2026.
