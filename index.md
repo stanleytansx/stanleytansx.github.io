@@ -15,6 +15,7 @@ I study plant defenses and immunity against herbivores and pathogens in tropical
 
 ## News
 
+- **[Jul 2026]** I will be visiting the Forest Research Institute Malaysia for my dissertation research. 
 - **[Apr 2026]** I passed my qualifying examination and advanced to candidacy with a MPhil! 
 - **[Feb 2026]** I completed the Investing in Innovation Intensive at the Tsai Center for Innovative Thinking at Yale. 
 - **[Dec 2025]** I presented my work on plant herbivory defenses at the British Ecological Society's Annual Meeting (Edinburgh, UK).
