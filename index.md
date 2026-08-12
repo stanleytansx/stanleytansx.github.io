@@ -26,7 +26,7 @@ I study plant defenses and immunity against herbivores and pathogens in tropical
 - **[May 2024]** I joined the United Nations Climate Change Secretariat's Adaptation Division.
 - **[May 2024]** I graduated from the National University of Singapore with a Bachelor of Science in Environmental Studies (First Class Honours). 
 
-## Just for Fun
+## Other Projects
 
 - <a href="https://stanleytansx.shinyapps.io/housing_affordability_shiny/" target="_blank">Housing Affordability in Singapore Over Time (August 2026)</a>
 
