@@ -28,5 +28,5 @@ I study plant defenses and immunity against herbivores and pathogens in tropical
 
 ## Just for Fun
 
-- <a href="#" target="_blank">Housing Affordability in Singapore Over Time (August 2026)</a>
+- <a href="https://stanleytansx.shinyapps.io/housing_affordability_shiny/" target="_blank">Housing Affordability in Singapore Over Time (August 2026)</a>
 
