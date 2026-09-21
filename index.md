@@ -1,6 +1,4 @@
-<img width="512" height="512" alt="download" src="https://github.com/user-attachments/assets/26de8a09-f834-4459-bb14-c69797e72cc1" />---
-layout: homepage
----
+
 
 ## About Me
 
